@@ -169,13 +169,21 @@ var APP_DATA = {
           "target": "2-"
         }
       ],
-      "infoHotspots": []
+      "infoHotspots": [
+	  
+	          {
+          "yaw": -0.5025656536362142,
+          "pitch": 0.14581765755243126,
+          "title": "Georg Jensen",
+          "text": "丹麥一家銀製品公司喬治傑生公司的品牌名稱。其所設計的銀飾在世界珠寶設計界具有重要而經典的地位。"
+        }
+		]
     }
   ],
   "name": "大園百720環景",
   "settings": {
     "mouseViewMode": "drag",
-    "autorotateEnabled": false,
+    "autorotateEnabled": true,
     "fullscreenButton": true,
     "viewControlButtons": true
   }
