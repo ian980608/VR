@@ -38,10 +38,10 @@ var APP_DATA = {
       ],
       "infoHotspots": [
         {
-          "yaw": -0.9224053107978243,
-          "pitch": 0.21178343382734255,
-          "title": "lavy",
-          "text": "Text"
+          "yaw": -0.5025656536362142,
+          "pitch": 0.14581765755243126,
+          "title": "Georg Jensen",
+          "text": "丹麥一家銀製品公司喬治傑生公司的品牌名稱。其所設計的銀飾在世界珠寶設計界具有重要而經典的地位。"
         }
       ]
     },
@@ -87,7 +87,14 @@ var APP_DATA = {
           "target": "2-"
         }
       ],
-      "infoHotspots": []
+      "infoHotspots": [
+	          {
+          "yaw": 1.1425042828235679,
+          "pitch": 0.15623068173664123,
+          "title": "Radley",
+          "text": "Radley是一家總部位於倫敦的英國配件品牌，為英國和國際市場設計和製造奢華手袋、皮夾和其他女士配件。該品牌由 Lowell Harder 於 1998 年創立。"
+        }
+		]
     },
     {
       "id": "2-",
@@ -131,7 +138,14 @@ var APP_DATA = {
           "target": "3-5"
         }
       ],
-      "infoHotspots": []
+      "infoHotspots": [
+	          {
+          "yaw": 0.011705649086170666,
+          "pitch": 0.10855690038346921,
+          "title": "why and1/2",
+          "text": "許多童裝皆是由此生產出售。"
+        }
+	  ]
     },
     {
       "id": "3-5",
@@ -169,15 +183,7 @@ var APP_DATA = {
           "target": "2-"
         }
       ],
-      "infoHotspots": [
-	  
-	          {
-          "yaw": -0.5025656536362142,
-          "pitch": 0.14581765755243126,
-          "title": "Georg Jensen",
-          "text": "丹麥一家銀製品公司喬治傑生公司的品牌名稱。其所設計的銀飾在世界珠寶設計界具有重要而經典的地位。"
-        }
-		]
+      "infoHotspots": []
     }
   ],
   "name": "大園百720環景",
