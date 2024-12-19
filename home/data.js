@@ -24,33 +24,26 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": 1.2742437853998947,
-        "pitch": 0,
+        "yaw": 1.3477972574577208,
+        "pitch": -0.006331334023819579,
         "fov": 1.2599180821480807
       },
-      "linkHotspots": [
-        {
-          "yaw": 3.1369900632806225,
-          "pitch": 0.14273173408337314,
-          "rotation": 4.71238898038469,
-          "target": "1-"
-        }
-	  ],
+      "linkHotspots": [],
       "infoHotspots": [
         {
-          "yaw": 1.2742437853998947,
-          "pitch": 0,
+          "yaw": 0.9160986115366363,
+          "pitch": -0.2202012697205351,
           "title": "大園百",
-          "text": "1983年（民國72年）9月，板橋店開業。(維基百科)"
+          "text": "遠東百貨股份有限公司（英語：Far Eastern Department Stores Co. Ltd，亦有多種縮寫，如FE21' 、FEDS 、MegA、FE City等），簡稱遠東百貨、遠百與大遠百，是臺灣一家連鎖百貨公司，屬遠東集團旗下事業，與來來百貨、永琦百貨為臺灣早期三大百貨公司，其中寶慶店是台灣現存最久的百貨公司。其主要業務為經營買賣各項百貨商品、餐飲娛樂及生鮮超級市場等內容。"
         }
       ]
     }
   ],
-  "name": "home",
+  "name": "Project Title",
   "settings": {
     "mouseViewMode": "drag",
-    "autorotateEnabled": false,
-    "fullscreenButton": true,
-    "viewControlButtons": true
+    "autorotateEnabled": true,
+    "fullscreenButton": false,
+    "viewControlButtons": false
   }
 };
